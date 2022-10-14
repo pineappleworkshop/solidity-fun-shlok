@@ -9,8 +9,8 @@ There are 2 main contracts in theis set:
 # Deployment:
 1. Minter: 
   1. Input wallet #1 & #2 to be used as owners and withdrawal wallets
-  2. The mint price in erc20, leave one to 0 when picking the other
-  3. The mint price in eth, leave one to 0 when picking the other
+  2. The mint price in erc20
+  3. The mint price in eth, (2 & 3 leave one to 0 when picking the other)
   4. Select if using erc20 as payment for mint (true for erc20)
 
 2. TokenGen: (Token Contract)
