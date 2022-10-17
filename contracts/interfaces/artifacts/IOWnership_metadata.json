@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "newOwner",
+						"type": "address"
+					}
+				],
+				"name": "transferOwnership",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"interfaces/Ownership.sol": "IOwnership"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"interfaces/Ownership.sol": {
+			"keccak256": "0xb128f01d6eec92e9b9418d9feb5d0301fcaf3a19274ce2471a35b471471de327",
+			"urls": [
+				"bzz-raw://d32c6015e35c5c8000ffcd9372403917aaa3fb7d9717155ccace28f48c025771",
+				"dweb:/ipfs/QmR9vguMH4SnMZRWuGLqbFxPeaDWNece1sZkH4oGpaS8iD"
+			]
+		}
+	},
+	"version": 1
+}
